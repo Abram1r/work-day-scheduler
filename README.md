@@ -1,7 +1,7 @@
 # Work Day Scheduler Starter Code
 
 ## Purpose
-A planner to schedule your day by the hour 
+A planner to schedule your day by the hour. 
 
 ## Built With
 * HTML
@@ -9,6 +9,7 @@ A planner to schedule your day by the hour
 * JS
 
 ## Website
+https://abram1r.github.io/work-day-scheduler/
 
 ## Contribution
 Made by Abram
